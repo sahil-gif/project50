@@ -1,0 +1,36 @@
+h1{
+    color:black ;
+    
+    background-image: url("b.png");
+}
+*{
+    border:solid ;
+     background-image: url("b5.png");
+}
+.header{
+    background-image: url("b2.png");
+    display : flex ;
+    justify-content: space-between ;
+
+}
+.grid{
+    display : flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-image: url("b3.png");
+}
+.site-description{
+    display : flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-image: url("b6.png");
+}
+.footer{
+    display: flex;
+    justify-content:flex-end;
+    background-image: url("b6.png");
+}
+p.h2{
+    text-align:center;
+
+}
